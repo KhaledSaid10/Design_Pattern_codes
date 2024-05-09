@@ -23,5 +23,4 @@ The following design patterns are covered:
 
 # 3- Behavioral Patterns:-
 # Memento Pattern
-# Chain of Responsibility Pattern
-# Observer Pattern
+
